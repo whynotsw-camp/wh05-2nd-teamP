@@ -161,9 +161,9 @@ whynotsw-camp 2nd-template 레포지토리입니다.
     
 - **결과물**:
   - https://github.com/moominii/IFITV: 맞춤형 채널 추천 모델 (ML)
-  - https://github.com/erimii/IFITV-React: React + Django 연동 채널 추천 사이트
+  - https://github.com/erimii/IFITV-React: React + Django 연동 채널 추천기
   - https://github.com/KongKongeee/IFITV-Crawling.git: 당일 편성표 크롤링 + 메타데이터 추가
-  - 
+  - https://github.com/choidongyeon01/frontend.git: 프론트
   ![image](https://github.com/user-attachments/assets/3ad1c1ec-d132-4aa6-849e-2e9798eb48b6)
 
 
